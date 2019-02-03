@@ -10,4 +10,4 @@
  * @package Beans\Framework
  */
 
-beans_load_document();
+beans_load_document(); 
